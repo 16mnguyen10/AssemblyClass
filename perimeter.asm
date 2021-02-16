@@ -1,6 +1,6 @@
 ;************************************************************************************************************************************
 ;Program name: "Rectangle Perimeter". This program calculates and display a rectangle's perimeter and area length.                  *
-;Copyright (C) 2021 Michael Nguyen.                                                                                                *
+;Copyright (C) 2021 Michael Nguyen.                                                                                                 *
 ;                                                                                                                                   *
 ;This file is part of the software program "Rectangle Perimeter".                                                                   *
 ;Rectangle Perimeter is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License   *

@@ -1,6 +1,6 @@
 #!bin/bash
 
-#Program: Floating IO
+#Program: Rectagle Perimeter
 #Author: Michael Nguyen
 
 #Delete some un-needed files
